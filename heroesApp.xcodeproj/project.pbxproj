@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3C9039B22965B4DE0072B874 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C9039B12965B4DE0072B874 /* ViewController2.swift */; };
 		3CFB2A5F29649BDD00B0599F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CFB2A5E29649BDD00B0599F /* AppDelegate.swift */; };
 		3CFB2A6129649BDD00B0599F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CFB2A6029649BDD00B0599F /* SceneDelegate.swift */; };
 		3CFB2A6329649BDD00B0599F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CFB2A6229649BDD00B0599F /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3C9039B12965B4DE0072B874 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		3CFB2A5B29649BDD00B0599F /* heroesApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = heroesApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3CFB2A5E29649BDD00B0599F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3CFB2A6029649BDD00B0599F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				3CFB2A6029649BDD00B0599F /* SceneDelegate.swift */,
 				3CFB2A6229649BDD00B0599F /* ViewController.swift */,
 				3CFB2A6429649BDD00B0599F /* Main.storyboard */,
+				3C9039B12965B4DE0072B874 /* ViewController2.swift */,
 				3CFB2A6729649BDE00B0599F /* Assets.xcassets */,
 				3CFB2A6929649BDE00B0599F /* LaunchScreen.storyboard */,
 				3CFB2A6C29649BDE00B0599F /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3CFB2A6329649BDD00B0599F /* ViewController.swift in Sources */,
+				3C9039B22965B4DE0072B874 /* ViewController2.swift in Sources */,
 				3CFB2A5F29649BDD00B0599F /* AppDelegate.swift in Sources */,
 				3CFB2A6129649BDD00B0599F /* SceneDelegate.swift in Sources */,
 			);
